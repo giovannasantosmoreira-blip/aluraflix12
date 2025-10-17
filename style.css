@@ -1,7 +1,38 @@
-body{
-background-color: azure;
-color:black;
-font-family: ;
+body {
+    background-color: azure;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 10px;
 
+    h1 {
+        color: blueviolet;
+        font-size: 25px;
+    }
+    P{font: size 25px;
+    }
+    header{border-bottom:rgb(36, 212, 26)
+    margin: 2px;
+    padding: 10px;
+    color:brown
+}
+.chamada{background:chocolate
+padding: bottom 80px;
+display:flex;
+justify-content:center;
+}
+.chamada-texto{margin-right:8%;
+}
+ing {
+height: 200px;
+}
+.categoria-videos{
+display:flex;
+overflow-x:auto;
+gap: 15px;
+}
+.categoria{
+padding: left 20px;
+padding: right 20px;  
+}
 
 
